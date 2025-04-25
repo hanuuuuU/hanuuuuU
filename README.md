@@ -23,6 +23,7 @@
 </a>
 
 <div align="left">
+  <br>
   <h3>TECH STACK 🛠️</h3>
   
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -44,8 +45,9 @@
 </div>
 
 <br /><br />
-
-<h3>🚀 About Me</h3>
+<h3>🚀 PROJECT</h3>
+<li></li>
+<h3>🙋 ABOUT ME</h3>
 
 <ul>
   <li>🌱 웹 개발 풀스택 및 클라우드를 학습중이에요</li>
