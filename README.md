@@ -5,7 +5,7 @@
 
   ### 🐮Hanu's GITHUB🐮
 
-<a href="https://solved.ac/han980514"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=han980514"/></a>
+<a href="https://solved.ac/han980514"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=han980514"/>
 
 
 <div align="left">
