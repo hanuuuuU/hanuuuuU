@@ -43,25 +43,6 @@
 <br />
 <br />
 <br />
-
-### 🚀 Project
-**플로깅 서비스**
-- StreamBuilder를 통한 랭킹 시스템 실시간 업데이트
-- Isolate를 적용한 Rendering Time 단축
-- Firebase 서비스 담당
-
-**이미지 모자이크 서비스**
-- Custom Camera 제작
-- RestAPI를 사용한 이미지 데이터 송수신
-
-**식재료 등록 및 나눔 서비스**
-- Tesseract OCR를 통한 영수증 데이터 추출 및 유통기한 자동 등록
-
-### 🙋 About Me
-- 🌱 웹 개발 풀스택 및 클라우드를 학습중이에요
-- 🔥 맡은 역할에는 끝까지 책임을 다해요
-- 💼 앱 개발을 해왔어요
-- 📚 망곰이를 좋아해요
 <br />
 <br /><br /><br />
 </div>
